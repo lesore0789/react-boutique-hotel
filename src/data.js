@@ -674,14 +674,14 @@ export default [
         {
           fields: {
             file: {
-              url: room8
+              url: room9
             }
           }
         },
         {
           fields: {
             file: {
-              url: room9
+              url: room8
             }
           }
         },
@@ -731,14 +731,14 @@ export default [
         {
           fields: {
             file: {
-              url: room8
+              url: room2
             }
           }
         },
         {
           fields: {
             file: {
-              url: room2
+              url: room8
             }
           }
         },
